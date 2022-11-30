@@ -19,8 +19,9 @@ To get a local copy up and running follow these simple example steps.
 Web Browser
 Code Editor
 ### Setup
-~~~bash
-git clone 
+~~~
+bash
+git clone https://github.com/God-Logic/Hello-Microverse- 
 cd Hello-Microverse-
 ~~~
 
