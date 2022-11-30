@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
   <h1>Hello Microverse!</h1>
   <h3><b>Microverse README Template</b></h3>
@@ -40,7 +40,7 @@
 
 > Describe your project in 1 or 2 sentences.
 
-**[Hello, Microverse]** is a simple project displaying css and html files.
+**[Hello, Microverse]**is a basic css and html file
 
 ## 🛠 Built With <a name="built-with"></a>
 
