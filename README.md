@@ -1,11 +1,10 @@
 <a name="readme-top"></a>
 
-
 <div align="center">
 
-   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
-  <h1>Hello Microverse!</h1>
+   <h1>Hello Microverse!</h1>
   <h3><b>Microverse README Template</b></h3>
 
 </div>
@@ -34,13 +33,13 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
+<!-- PROJECT DESCRIPTION -->
 
-
-# 📖 [Hello, Microverse] <a name=" Hello world repository. No complex coding"></a>
+# 📖 [your_project_name] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[Hello, Microverse]**is a basic css and html file
+**[your_project__name]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -81,6 +80,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 > Add a link to your deployed project.
@@ -88,8 +88,6 @@
 - [Live Demo Link](https://yourdeployedapplicationlink.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -100,7 +98,6 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
-
 
 ### Setup
 
@@ -121,12 +118,14 @@ To run the project, execute the following command:
 To run tests, run the following command:
 
 
+
 ### Deployment
 
 You can deploy this project using:
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 ## 👥 Authors <a name="authors"></a>
@@ -160,6 +159,7 @@ You can deploy this project using:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
@@ -167,6 +167,7 @@ Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 ## ⭐️ Show your support <a name="support"></a>
@@ -178,6 +179,7 @@ If you like this project...
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 > Give credit to everyone who inspired your codebase.
@@ -186,7 +188,7 @@ I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
+
 
 ## ❓ FAQ <a name="faq"></a>
 
@@ -202,7 +204,7 @@ I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
+
 
 ## 📝 License <a name="license"></a>
 
